@@ -1,3 +1,4 @@
 Hi there thus my first git file 
-
+So we have commited the file
 Hi again just checking the file 
+And we are about to send it back to the server
